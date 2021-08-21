@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anajembaedwin
 - 👀 I’m interested in Software Development, Data Analytics, Artificial Intelligence, Virtual and Augmented Reality.
-- 🌱 I’m currently learning Front-End and Back-End Development, Data Analytics and Neural Networks.
-- 💞️ I’m looking to collaborate on open-source and paid projects
+- 🌱 I’m actively learning Front-End and Back-End Development, Data Analytics and Neural Networks.
+- 💞️ I’m looking to collaborate on open-source and/or paid projects.
 - 📫 How to reach me : anajembaedwin@gmail.com
 
 <!---
