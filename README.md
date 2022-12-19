@@ -24,7 +24,7 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
  <!-- Stats -->
   <h1 align="center">Code Stats</h1>
 <div align="center">
- <img width="49.5%" height="170px" src="#" />
+ <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=anajembaedwin&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
 </div>
 </br>
 
