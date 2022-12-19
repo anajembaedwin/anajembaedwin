@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     <img src="#">
 <br>
-Hi there, 👋🏽&nbsp I'm a Fullstack Web2, and Blockchain Developer. Feel free to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development, open-source, and/or paid projects! 
+Hi there, 👋🏽&nbsp I'm a Fullstack Web2, and Blockchain Developer. Feel free to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development, open-source, and/or paid projects! (PS: This portfolio is under construction)
 </p>
 
 <!-- SOCIALS -->
