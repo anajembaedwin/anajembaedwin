@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @anajembaedwin
-- 👀 I’m interested in Software Development, Machine Learning, Artificial Intelligence, Virtual and Augmented Reality.
-- 🌱 I’m a Fullstack Web2, and Blockchain Developer.
-- 💞️ I’m looking to collaborate on open-source and/or paid projects.
-- 📫 How to reach me : anajembaedwin@gmail.com
 
 <!---
 anajembaedwin/anajembaedwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,24 +7,24 @@ You can click the Preview link to take a look at your changes.
 ![anajembaedwin's GitHub Banner](./images/myBanner.png)
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+David+Aniebo;Software+Engineer">
+    <img src="#">
 <br>
-Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development! 
+Hi there, 👋🏽&nbsp I'm a Fullstack Web2, and Blockchain Developer. Feel free to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development, open-source, and/or paid projects! 
 </p>
 
 <!-- SOCIALS -->
 <h1 align="center">Contact Me</h1>
   <p align="center">   
-    <a href="https://www.linkedin.com/in/david-aniebo/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
-    <a href="mailto:aniebovictor001@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
-    <a href="https://twitter.com/webmekanic_"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
-    <a href="https://www.codewars.com/users/Webmekanic"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
+    <a href="#"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
+    <a href="#"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
+    <a href="#"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
   </p>
   
  <!-- Stats -->
   <h1 align="center">Code Stats</h1>
 <div align="center">
- <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=webmekanic&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
+ <img width="49.5%" height="170px" src="#" />
 </div>
 </br>
 
@@ -63,13 +58,13 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
     <td width="50%" valign="top">
       <h3 align="center">Surevoter</h3>
         <br />
-        <a target="_blank" href="http://www.surevoter.com">
+        <a target="_blank" href="#">
             <img src="./images/surevoter.gif" width="100%" alt="Sure Voter"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://www.surevoter.com" target="_blank">
+  <a href="#" target="_blank">
    <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
   </a>  
       </p>
@@ -84,10 +79,10 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
         <br />
         <p align="center">
           
-  <a href="https://github.com/zurichat/zc_main" target="_blank">
+  <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
-  <a href="https://www.zuri.chat" target="blank">
+  <a href="#" target="blank">
    <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
   </a> 
       </p>
@@ -99,15 +94,15 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
     <td width="50%" valign="top">
       <h3 align="center">E-commerce Product Page</h3>
       <br />
-        <a target="_blank" href="https://webmekanic.github.io/Ecommerce-Product-Page/">
+        <a target="_blank" href="#">
            <img src="./images/productPage.gif" width="100%" alt="Product Page"/>
         </a>
       <br />
    <p align="center">   
-   <a href="https://github.com/Webmekanic/Ecommerce-Product-Page" target="_blank">
+   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
-  <a href="https://webmekanic.github.io/Ecommerce-Product-Page/" target="blank">
+  <a href="#" target="blank">
    <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
   </a> 
       </p>
@@ -116,15 +111,15 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
     <td width="50%" valign="top">
         <h3 align="center">Developer Finder</h3>
         <br />
-        <a target="_blank" href="https://github.com/Webmekanic/Developer-finder">
+        <a target="_blank" href="#">
           <img src="./images/devfinder.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
          <p align="center">   
-   <a href="https://github.com/Webmekanic/Developer-finder" target="_blank">
+   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
-  <a href="https://devfinder-webmekanic.vercel.app" target="blank">
+  <a href="#" target="blank">
    <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
   </a>
       </p>
@@ -136,8 +131,8 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
 
 <h1 align="center">Connect</h1>
   <p align="center">   
-    <a href="https://www.linkedin.com/in/david-aniebo/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
-    <a href="mailto:aniebovictor001@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
-    <a href="https://twitter.com/webmekanic_"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
-    <a href="https://www.codewars.com/users/Webmekanic"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
+    <a href="#"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
+    <a href="#"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
+    <a href="#"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
   </p>
