@@ -12,14 +12,14 @@ You can click the Preview link to take a look at your changes.
 Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Feel free to stay a while and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development, open-source, and/or paid projects! <em>(PS: This portfolio is under construction)</em>
 </p>
 
-<!-- SOCIALS -->
+<!-- SOCIALS
 <h1 align="center">Contact Me</h1>
   <p align="center">   
     <a href="https://www.linkedin.com/in/anajembaedwin/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
     <a href="mailto:anajembaedwin@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
     <a href="https://twitter.com/edwin_somto"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
     <a href="https://www.codewars.com/users/iSommie"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
-  </p>
+  </p> -->
   
  <!-- Stats -->
   <h1 align="center">Code Stats</h1>
@@ -132,8 +132,10 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
   </tr>
 </table>
 
-<h1 align="center">Connect</h1>
-  <p align="center">   
+<!-- <h1 align="center">Connect</h1>
+  <p align="center">    -->
+<!-- SOCIALS -->
+<h1 align="center">Contact Me</h1>
     <a href="https://www.linkedin.com/in/anajembaedwin/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
     <a href="mailto:anajembaedwin@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
     <a href="https://twitter.com/edwin_somto"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
