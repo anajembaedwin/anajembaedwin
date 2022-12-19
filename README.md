@@ -63,7 +63,10 @@ Hi there, 👋🏽&nbsp I'm a Fullstack Web2, and Blockchain Developer. Feel fre
         </a>
         <br />
         <p align="center">
-          
+            
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
+  </a>      
   <a href="#" target="_blank">
    <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
   </a>  
