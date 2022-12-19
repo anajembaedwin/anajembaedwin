@@ -56,7 +56,7 @@ Hi there, 👋🏽&nbsp I'm a Fullstack Web2, and Blockchain Developer. Feel fre
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Surevoter</h3>
+      <h3 align="center">Dummy 1</h3>
         <br />
         <a target="_blank" href="#">
             <img src="./images/surevoter.gif" width="100%" alt="Sure Voter"/>
@@ -71,9 +71,9 @@ Hi there, 👋🏽&nbsp I'm a Fullstack Web2, and Blockchain Developer. Feel fre
         <p><strong>HTML, CSS3, Javascript, Typescript, Handlebars, React, Redux, Node.js, AWS, DynamoDB </strong> - A cloud based voting system to improve voter engagement, save time, create a better voter experience, and guarantee election integrity.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Zuri Chat</h3>
+      <h3 align="center">Dummy 2</h3>
         <br />
-      <a target="_blank" href="https://www.zuri.chat/">
+      <a target="_blank" href="#">
             <img src="./images/zurichat.gif" width="100%"  alt="Zuri"/>
         </a>
         <br />
@@ -92,7 +92,7 @@ Hi there, 👋🏽&nbsp I'm a Fullstack Web2, and Blockchain Developer. Feel fre
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">E-commerce Product Page</h3>
+      <h3 align="center">Dummy 3</h3>
       <br />
         <a target="_blank" href="#">
            <img src="./images/productPage.gif" width="100%" alt="Product Page"/>
@@ -109,7 +109,7 @@ Hi there, 👋🏽&nbsp I'm a Fullstack Web2, and Blockchain Developer. Feel fre
         <p><strong>HTML5, CSS3, & Javascript</strong> - A responsive E-commerce product page with lightbox gallery and Cart Functionality.</p>
     </td>
     <td width="50%" valign="top">
-        <h3 align="center">Developer Finder</h3>
+        <h3 align="center">Dummy 4</h3>
         <br />
         <a target="_blank" href="#">
           <img src="./images/devfinder.gif" width="100%" alt="Matching Cards"/>
