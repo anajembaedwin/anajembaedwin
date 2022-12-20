@@ -214,11 +214,22 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
 <!-- SOCIALS -->
 <h1 align="center">Contact Me</h1>
   <p align="center">
-    [![Contact Form](https://img.shields.io/badge/Name-______________-blue)](#)
-    [![Contact Form](https://img.shields.io/badge/Email-______________-blue)](#)
-    [![Contact Form](https://img.shields.io/badge/Subject-______________-blue)](#)
-    [![Contact Form](https://img.shields.io/badge/Message-______________-blue)](#)
-    [![Contact Form](https://img.shields.io/badge/Submit-Click Here-brightgreen)](#)
+    <form>
+      <label for="name">Name:</label><br>
+      <input type="text" id="name" name="name"><br>
+      <label for="email">Email:</label><br>
+      <input type="email" id="email" name="email"><br>
+      <label for="subject">Subject:</label><br>
+      <input type="text" id="subject" name="subject"><br>
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message"></textarea><br>
+      <input type="submit" value="Submit">
+    </form>
+
+    <br>
+
+    <a href="https://img.shields.io/badge/Submit-Click Here-brightgreen" target="_blank">Submit</a>
+
   </p>
   <p align="center">   
     <a href="https://www.linkedin.com/in/anajembaedwin/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
