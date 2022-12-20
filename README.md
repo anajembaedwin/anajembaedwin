@@ -213,27 +213,14 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
 
 <!-- SOCIALS -->
 <h1 align="center">Contact Me</h1>
+  <p align="center">
+    [![Contact Form](https://img.shields.io/badge/Name-______________-blue)](#)
+    [![Contact Form](https://img.shields.io/badge/Email-______________-blue)](#)
+    [![Contact Form](https://img.shields.io/badge/Subject-______________-blue)](#)
+    [![Contact Form](https://img.shields.io/badge/Message-______________-blue)](#)
+    [![Contact Form](https://img.shields.io/badge/Submit-Click Here-brightgreen)](#)
+  </p>
   <p align="center">   
-    ## Contact Form
-
-Please fill out the form below to contact us. We will respond to your message as soon as possible.
-
-Name: ___________________________
-
-Email: ___________________________
-
-Subject: ___________________________
-
-Message: ___________________________
-
-___________________________
-
-___________________________
-
-___________________________
-
-[Submit]
-
     <a href="https://www.linkedin.com/in/anajembaedwin/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
     <a href="mailto:anajembaedwin@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
     <a href="https://twitter.com/edwin_somto"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
