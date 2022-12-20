@@ -133,7 +133,7 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
     
    <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Dummy 3</h3>
+      <h3 align="center">Dummy 5</h3>
       <br />
         <a target="_blank" href="#">
            <img src="./images/productPage.gif" width="100%" alt="Product Page"/>
@@ -150,7 +150,7 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
         <p><strong>HTML5, CSS3, & Javascript</strong> - A responsive E-commerce product page with lightbox gallery and Cart Functionality.</p>
     </td>
     <td width="50%" valign="top">
-        <h3 align="center">Dummy 4</h3>
+        <h3 align="center">Dummy 6</h3>
         <br />
         <a target="_blank" href="#">
           <img src="./images/devfinder.gif" width="100%" alt="Matching Cards"/>
@@ -172,7 +172,7 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
     
    <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Dummy 3</h3>
+      <h3 align="center">Dummy 7</h3>
       <br />
         <a target="_blank" href="#">
            <img src="./images/productPage.gif" width="100%" alt="Product Page"/>
@@ -189,7 +189,7 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
         <p><strong>HTML5, CSS3, & Javascript</strong> - A responsive E-commerce product page with lightbox gallery and Cart Functionality.</p>
     </td>
     <td width="50%" valign="top">
-        <h3 align="center">Dummy 4</h3>
+        <h3 align="center">Dummy 8</h3>
         <br />
         <a target="_blank" href="#">
           <img src="./images/devfinder.gif" width="100%" alt="Matching Cards"/>
@@ -214,6 +214,26 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
 <!-- SOCIALS -->
 <h1 align="center">Contact Me</h1>
   <p align="center">   
+    ## Contact Form
+
+Please fill out the form below to contact us. We will respond to your message as soon as possible.
+
+Name: ___________________________
+
+Email: ___________________________
+
+Subject: ___________________________
+
+Message: ___________________________
+
+___________________________
+
+___________________________
+
+___________________________
+
+[Submit]
+
     <a href="https://www.linkedin.com/in/anajembaedwin/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
     <a href="mailto:anajembaedwin@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
     <a href="https://twitter.com/edwin_somto"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
