@@ -174,6 +174,16 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
 
 <!-- SOCIALS -->
 <h1 align="center">Contact Me</h1>
+<p align="center">
+    Please reach out to me with the following details:
+<form>
+  <label for="name">Name:</label><br>
+  <label for="email">Email:</label><br>
+  <label for="subject">Subject:</label><br>
+  <label for="message">Message:</label><br>
+</form>
+
+</p>
   <p align="center">   
     <a href="https://www.linkedin.com/in/anajembaedwin/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
     <a href="mailto:anajembaedwin@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
