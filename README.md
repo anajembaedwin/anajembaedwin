@@ -168,45 +168,6 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
             -  A platform that uses GitHub API to fetch user data from the GitHub database and display a user's information.</p>
     </td>
   </tr>
-  
-    
-   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Dummy 7</h3>
-      <br />
-        <a target="_blank" href="#">
-           <img src="./images/productPage.gif" width="100%" alt="Product Page"/>
-        </a>
-      <br />
-   <p align="center">   
-   <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
-  </a>
-  <a href="#" target="blank">
-   <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
-  </a> 
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A responsive E-commerce product page with lightbox gallery and Cart Functionality.</p>
-    </td>
-    <td width="50%" valign="top">
-        <h3 align="center">Dummy 8</h3>
-        <br />
-        <a target="_blank" href="#">
-          <img src="./images/devfinder.gif" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
-         <p align="center">   
-   <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
-  </a>
-  <a href="#" target="blank">
-   <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
-  </a>
-      </p>
-        <p><strong>HTML5, HTTP, REST, Vercel, ContextAPIs, Javascript, Tailwind, Daisy Ui </strong>
-            -  A platform that uses GitHub API to fetch user data from the GitHub database and display a user's information.</p>
-    </td>
-  </tr>
     
 </table>
 
