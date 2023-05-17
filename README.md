@@ -4,7 +4,7 @@ anajembaedwin/anajembaedwin is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![anajembaedwin's GitHub Banner](./images/edwin_anajemba_banner.png)
+<!-- ![anajembaedwin's GitHub Banner](./images/edwin_anajemba_banner.png) -->
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+Edwin+Anajemba;Software+Engineer">
@@ -183,7 +183,7 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
 <h1 align="center">Contact Me</h1>
 <p align="center">
     Please reach out to me with the following details:
-<form>
+<!-- <form>
   <label for="name">Name:</label><br>
   <label for="email">Email:</label><br>
   <label for="subject">Subject:</label><br>
@@ -196,7 +196,7 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
     <a href="mailto:anajembaedwin@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
     <a href="https://twitter.com/edwin_somto"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
     <a href="https://www.codewars.com/users/iSommie"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
-  </p>
+  </p> -->
 
   
 <!-- <h1 align="center">Connect</h1>
