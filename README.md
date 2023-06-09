@@ -1,8 +1,8 @@
 
--
+<!-- -
 anajembaedwin/anajembaedwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
--
+- -->
 
 ![anajembaedwin's GitHub Banner](./images/edwin_anajemba_banner.png)
 
