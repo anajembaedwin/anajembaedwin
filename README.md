@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ![anajembaedwin's GitHub Banner](./images/edwin_anajemba_banner.png)
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+Edwin+Sommie;A+Software+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=600&lines=I'm+Edwin+Sommie;A+Full+Stack+Web3+Developer">
 <br>
 Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Feel free to stay a while and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development, open-source, and/or paid projects! <em>(PS: This portfolio is under construction)</em>
 </p>
@@ -58,8 +58,8 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
       <img src="https://img.shields.io/badge/Remix-000000?style=plastic&logo=remix" height=25>
       <img src="https://img.shields.io/badge/NextJS-000000?style=plastic&logo=next.js" height=25>
     </p>
-    <h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
+<!--     <h1 align="center">Projects</h1> -->
+<!-- <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
@@ -176,13 +176,13 @@ Hi there, 👋🏽&nbsp I'm a Fullstack JavaScript, and Blockchain Developer. Fe
     </td>
   </tr>
     
-</table>
+</table> -->
 
 
 <!-- SOCIALS -->
-<h1 align="center">Contact Me</h1>
+<!-- <h1 align="center">Contact Me</h1>
 <p align="center">
-    Please reach out to me with the following details:
+    Please reach out to me with the following details: -->
 <!-- <form>
   <label for="name">Name:</label><br>
   <label for="email">Email:</label><br>
