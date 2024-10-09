@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=600&lines=I'm+Edwin+Sommie;A+Full+Stack+Developer">
 <br>
-Hi there, 👋🏽&nbsp I'm a Software Engineer with speciality in Frontend Development, Backend Development, Shopify Developer, DevOps, and Smart Contract Engineering. Feel free to stay a while and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development, open-source, and/or paid projects! <em>(PS: This portfolio is under construction)</em>
+Hi there, 👋🏽&nbsp I'm a Software Engineer with speciality in Frontend Development, Backend Development, Shopify Development, DevOps, and Smart Contract Engineering. Feel free to stay a while and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development, open-source, and/or paid projects! <em>(PS: This portfolio is under construction)</em>
 </p>
 
 <!-- SOCIALS
