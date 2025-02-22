@@ -1,7 +1,7 @@
 ![Edwin Anajemba's GitHub Banner](./images/edwin_anajemba_banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=1200&lines=Hi%2C+I'm+Edwin+Sommie;Software+Engineer+%7C+Blockchain+Developer+%7C+AI+Enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=1200&lines=Hi%2C+I'm+Edwin+Anajemba;Software+Engineer+%7C+Blockchain+Developer+%7C+AI+Enthusiast">
 </p>
 
 ---
