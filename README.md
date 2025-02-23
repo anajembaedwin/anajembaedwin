@@ -16,8 +16,6 @@ I’m a **Software Engineer** with a passion for building **secure, scalable, an
 
 I’m always learning, experimenting, and contributing to open-source projects. Let’s connect and build something amazing together!
 
-Here’s an updated version of your **Technologies & Tools** section with **Go (Golang)** and **C#** added, along with a few more relevant technologies to make it more comprehensive and impressive:
-
 ---
 
 ### **Technologies & Tools**
