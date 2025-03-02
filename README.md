@@ -9,7 +9,7 @@
 ### **About Me**
 I’m a **Software Engineer** with a passion for building **secure, scalable, and innovative solutions**. My expertise spans **backend development**, **blockchain engineering**, and **AI-driven applications**. I thrive on solving complex problems and delivering high-quality, user-focused solutions.
 
-- 💻 **Backend Development**: Building robust APIs, microservices, and scalable systems using **Node.js**, **Python**, and **Express**.
+- 💻 **Backend Development**: Building robust APIs, microservices, and scalable systems using **Node.js**, **Python**, and **Go**.
 - 🔗 **Blockchain Engineering**: Developing decentralized applications (dApps) and smart contracts with **Solidity**, **Ethereum**, and **Web3.js**.
 - 🤖 **AI Solutions**: Exploring machine learning and AI to create data-driven applications that solve real-world problems.
 - 🛠️ **DevOps**: Streamlining workflows with **CI/CD pipelines**, **Docker**, and **AWS** for seamless deployments.
