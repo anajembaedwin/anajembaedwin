@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://anajembaedwin.github.io"><img src="images/hero.svg" alt="Edwin Anajemba, Product Engineer" width="100%"></a>
+<a href="https://anajembaedwin.github.io"><img src="images/hero.svg" alt="Edwin Anajemba, Software Product Engineer" width="100%"></a>
 
 <a href="https://anajembaedwin.github.io/#contact"><img src="images/btn-hire.svg" alt="Hire me for a contract" height="46"></a>
 <a href="https://anajembaedwin.github.io"><img src="images/btn-portfolio.svg" alt="Portfolio" height="46"></a>
