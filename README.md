@@ -1,63 +1,58 @@
+<div align="center">
 
-![Edwin Anajemba's GitHub Banner](./images/edwin_anajemba_banner.png)
+<a href="https://anajembaedwin.github.io"><img src="images/hero.svg" alt="Edwin Anajemba, Product Engineer" width="100%"></a>
 
-# Hi, I'm Edwin Anajemba 👋
+<a href="https://anajembaedwin.github.io/#contact"><img src="images/btn-hire.svg" alt="Hire me for a contract" height="46"></a>
+<a href="https://anajembaedwin.github.io"><img src="images/btn-portfolio.svg" alt="Portfolio" height="46"></a>
+<a href="https://www.linkedin.com/in/anajembaedwin"><img src="images/btn-linkedin.svg" alt="LinkedIn" height="46"></a>
 
-**Product engineer and team lead.** I lead the product team at [JointEarn](https://www.jointearn.com) and build the web platforms and cloud infrastructure behind products, from payments to Web3. Based in Lagos, Nigeria, working with teams anywhere.
+<img src="images/terminal.svg" alt="Profile as JSON: Product Team Lead at JointEarn, web and infrastructure, 5+ years, open to contracts" width="100%">
 
-**Open to contracts.** Full portfolio, services and contact form: **[anajembaedwin.github.io](https://anajembaedwin.github.io)**
+</div>
 
----
+## What I do for teams
 
-### What I do
+<img src="images/services.svg" alt="Lead a product build, web platforms and APIs, cloud and infrastructure, payments Web3 and AI" width="100%">
 
-- 🧭 **Lead product builds**: scope, architecture, team, delivery and the infrastructure it runs on.
-- 🌐 **Web platforms and APIs**: React and Next.js frontends, Node.js/TypeScript and Python backends on PostgreSQL.
-- ☁️ **Cloud and infrastructure**: AWS, Docker and CI/CD that make releases routine and production observable.
-- 💳 **Payments, Web3 and AI**: checkout and payment flows, Solidity contracts on Polygon, and features built on the Claude API.
+## How I ship
 
-### Live products I've contributed to
+<img src="images/flow.svg" alt="Scope, build, ship, run" width="100%">
 
-| Product | What it is | My part |
-| --- | --- | --- |
-| [JointEarn](https://www.jointearn.com) | Rewards platform: earn from videos, games, news and shopping | Lead the product team; own the React frontend and Node.js/TypeScript backend |
-| [Eyemark](https://www.eyemark.ng) | Nigeria's platform for following government projects | Worked on the web app |
-| [CloseCarbon](https://netzence.com/closecarbon/) (Netzence) | Carbon emissions verification | Hyperledger smart contracts, Python (FastAPI) backend and APIs |
-| [Cruva](https://www.cruva.com) (formerly UpTk) | Marketplace, now an AI platform for TikTok Shop affiliates | Buyer and merchant workflows in Vue.js; AWS deployments |
-| [GirlLEAD Talent Accelerator](https://thegirlleadproject.org) | Non-profit talent accelerator | Volunteer: backend architecture, product requirements, migration plan |
+## Live products I've contributed to
 
-Earlier: **Palimart** (e-commerce, 2021 to 2024, catalog, orders and payments) and **Maxxed Technical Systems** (enterprise SaaS backend).
+<table>
+<tr>
+<td><a href="https://www.jointearn.com"><img src="images/p-jointearn.svg" alt="JointEarn" width="270"></a></td>
+<td><a href="https://www.eyemark.ng"><img src="images/p-eyemark.svg" alt="Eyemark" width="270"></a></td>
+<td><a href="https://netzence.com/closecarbon/"><img src="images/p-closecarbon.svg" alt="CloseCarbon" width="270"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.cruva.com"><img src="images/p-cruva.svg" alt="Cruva" width="270"></a></td>
+<td><a href="https://thegirlleadproject.org"><img src="images/p-girllead.svg" alt="GirlLEAD" width="270"></a></td>
+<td></td>
+</tr>
+</table>
 
-### Things I'm building
+Earlier: three years owning the backend of the Palimart e-commerce platform (2021 to 2024), plus work at Maxxed Technical Systems.
 
-- 🎮 **[Games](https://anajembaedwin.github.io/games)**: [Daily Bug Hunt](https://anajembaedwin.github.io/games/daily-bug-hunt/play), a daily developer puzzle, and Tiny Wars, a tiny-people war game.
-- 🧪 Open-source projects and experiments in the repositories below.
+## Stack
 
----
+<img src="images/stack.svg" alt="TypeScript, NestJS, Python, FastAPI, React, Next.js, PostgreSQL, Redis, AWS, Docker, GitHub Actions, Solidity, Polygon, Claude API" width="100%">
 
-### Stack
+## Built for fun
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat&logo=polygon&logoColor=white)
+<table>
+<tr>
+<td><a href="https://anajembaedwin.github.io/games/daily-bug-hunt/play"><img src="images/g-bughunt.svg" alt="Daily Bug Hunt" width="270"></a></td>
+<td><a href="https://anajembaedwin.github.io/games/tiny-wars"><img src="images/g-tinywars.svg" alt="Tiny Wars" width="270"></a></td>
+</tr>
+</table>
 
-AWS: App Runner, ECR, S3, RDS, SES · Web3: Solidity on Polygon, Hyperledger · AI: Claude API
+<div align="center">
 
----
+<img src="images/footer.svg" alt="Thanks for stopping by" width="100%">
 
-### Let's work together
+<a href="https://anajembaedwin.github.io/#contact"><img src="images/btn-contact.svg" alt="Contact form" height="40"></a>
+<a href="https://www.linkedin.com/in/anajembaedwin"><img src="images/btn-linkedin.svg" alt="LinkedIn" height="40"></a>
 
-- 🌍 Portfolio: [anajembaedwin.github.io](https://anajembaedwin.github.io)
-- 💬 Contact form: [anajembaedwin.github.io/#contact](https://anajembaedwin.github.io/#contact)
-- 💼 LinkedIn: [linkedin.com/in/anajembaedwin](https://www.linkedin.com/in/anajembaedwin)
+</div>

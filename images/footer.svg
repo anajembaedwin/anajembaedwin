@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Thanks for stopping by">
+<defs><linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#6b4cff"/><stop offset="1" stop-color="#ff5c7a"/></linearGradient></defs>
+<rect width="1200" height="120" rx="16" fill="#15102a"/>
+<path fill="url(#w)" opacity=".35"><animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0,70 C200,30 400,110 600,70 C800,30 1000,110 1200,70 L1200,120 L0,120Z;M0,70 C200,110 400,30 600,70 C800,110 1000,30 1200,70 L1200,120 L0,120Z;M0,70 C200,30 400,110 600,70 C800,30 1000,110 1200,70 L1200,120 L0,120Z"/></path>
+<path fill="url(#w)" opacity=".55"><animate attributeName="d" dur="5s" repeatCount="indefinite" values="M0,85 C200,60 400,105 600,85 C800,60 1000,105 1200,85 L1200,120 L0,120Z;M0,85 C200,105 400,60 600,85 C800,105 1000,60 1200,85 L1200,120 L0,120Z;M0,85 C200,60 400,105 600,85 C800,60 1000,105 1200,85 L1200,120 L0,120Z"/></path>
+<text x="600" y="48" text-anchor="middle" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">Thanks for stopping by. Let's build something.</text>
+</svg>
