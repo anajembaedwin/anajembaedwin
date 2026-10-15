@@ -22,7 +22,7 @@
 
 <table>
 <tr>
-<td><a href="https://www.jointearn.com"><img src="images/p-jointearn.svg" alt="JointEarn" width="270"></a></td>
+<td><a href="https://web.jointearn.com"><img src="images/p-jointearn.svg" alt="JointEarn" width="270"></a></td>
 <td><a href="https://www.eyemark.ng"><img src="images/p-eyemark.svg" alt="Eyemark" width="270"></a></td>
 <td><a href="https://netzence.com/closecarbon/"><img src="images/p-closecarbon.svg" alt="CloseCarbon" width="270"></a></td>
 </tr>
