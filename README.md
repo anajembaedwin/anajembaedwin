@@ -6,7 +6,7 @@
 <a href="https://anajembaedwin.github.io"><img src="images/btn-portfolio.svg" alt="Portfolio" height="46"></a>
 <a href="https://www.linkedin.com/in/anajembaedwin"><img src="images/btn-linkedin.svg" alt="LinkedIn" height="46"></a>
 
-<img src="images/terminal.svg" alt="Profile as JSON: Product Team Lead at JointEarn, web and infrastructure, 5+ years, open to contracts" width="100%">
+<img src="images/terminal.svg" alt="Profile as JSON: Product Team Lead at JointEarn, founder of BeezyLabs, web and infrastructure, 5+ years, open to contracts" width="100%">
 
 </div>
 
@@ -17,6 +17,21 @@
 ## How I ship
 
 <img src="images/flow.svg" alt="Scope, build, ship, run" width="100%">
+
+## What I'm building
+
+Alongside my work at JointEarn I run BeezyLabs, a small software company in Abuja that builds its own products and takes on selected custom projects.
+
+<table>
+<tr>
+<td><a href="https://beezylabstech.pages.dev"><img src="images/p-beezylabs.svg" alt="BeezyLabs company website" width="270"></a></td>
+<td><a href="https://store.anajembaedwin.workers.dev"><img src="images/p-store.svg" alt="BeezyLabs Store, in preview" width="270"></a></td>
+</tr>
+<tr>
+<td><a href="https://beezylabstech.pages.dev/products.html#beezyapply"><img src="images/p-beezyapply.svg" alt="BeezyApply, AI CV tailoring, in development" width="270"></a></td>
+<td><a href="https://beezylabstech.pages.dev/products.html#traffic"><img src="images/p-traffic.svg" alt="Network Traffic Dashboard, in development" width="270"></a></td>
+</tr>
+</table>
 
 ## Live products I've contributed to
 
